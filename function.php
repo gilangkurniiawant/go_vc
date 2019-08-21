@@ -171,10 +171,11 @@ if($_SESSION["aksi"] =="daftar"){
 
 
 }else{
-    
+
 $data['url']=$host."/v4/customers/login/verify";
 $data['data']='{"client_name":"gojek:cons:android","client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e","data":{"otp":"'.$otp.'","otp_token":"'.$login_token.'"},"grant_type":"otp","scopes":"gojek:customer:transaction gojek:customer:readonly"}';
 }
+
 $data['save']="1";
 $data['header']=$header;
 $is =curl($data);

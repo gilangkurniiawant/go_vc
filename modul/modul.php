@@ -65,7 +65,7 @@ function curl($is = array()){
     curl_setopt($ch, CURLOPT_URL,$url);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 
-    if($cookie){
+    if(false){
     curl_setopt ($ch, CURLOPT_COOKIEFILE, 'modul/cookie.txt');
     curl_setopt($ch, CURLOPT_COOKIEJAR, 'modul/cookie.txt');
     curl_setopt($ch, CURLOPT_COOKIESESSION, true);
