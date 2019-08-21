@@ -134,6 +134,7 @@ $data['save']="1";
 $data['header']=$header;
 $is = curl($data);
 if(json_decode($is['result'],true)){
+    
     if(!$is['result']['success']){
             $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
             $data['url']=$host.'/v5/customers';
@@ -143,7 +144,6 @@ if(json_decode($is['result'],true)){
 
     }
     
-    return json_decode($is['result'],true);
 }else{
     return json_decode($is['result'],true);
 }
