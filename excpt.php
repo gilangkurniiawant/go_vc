@@ -46,7 +46,7 @@ if(isset($_POST['id'])){
                 $_SESSION["phone"] =$no;
                 $alrt = "<strong>Wah,</strong> Tinggal selangkah lagi nih";
                 $_SESSION["alert"] =array($alrt,'1');
-            if(array_key_exists('login_token',$is)){
+            if(array_key_exists('login_token',$is["data"])){
                 $_SESSION["aksi"] ="login";
                 $_SESSION["login_token"]=$is["data"]['login_token'];
             }else{
