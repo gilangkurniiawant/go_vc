@@ -47,10 +47,12 @@ if(isset($_POST['id'])){
                 $alrt = "<strong>Wah,</strong> Tinggal selangkah lagi nih";
                 $_SESSION["alert"] =array($alrt,'1');
             if(array_key_exists('login_token',$is)){
+                $_SESSION["aksi"] ="login";
                 $_SESSION["login_token"]=$is["data"]['login_token'];
             }else{
                 $alrt = "<strong>Daftar Akun Baru!,</strong> Tinggal selangkah lagi nih";
                 $_SESSION["alert"] =array($alrt,'1');
+                $_SESSION["aksi"] ="daftar";
                 $_SESSION["login_token"]=$is["data"]['otp_token'];
     
                

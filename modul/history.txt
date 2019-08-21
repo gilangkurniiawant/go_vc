@@ -6317,3 +6317,31 @@ Reference&#32;&#35;27&#46;a65d6276&#46;1565273941&#46;26ee5e8a
 
 
 {"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{
+ "data": null,
+ "success": false,
+ "errors": [
+  {
+   "code": "AUTH:CUST:RATELIMITED",
+   "message": "Permintaan Anda untuk masuk diblokir karena berulang kali tidak berhasil masuk ke akun Anda 30 menit.",
+   "message_title": "Error",
+   "message_severity": "error"
+  }
+ ]
+}
+
+
+{
+ "data": null,
+ "success": false,
+ "errors": [
+  {
+   "code": "AUTH:CUST:CUSTOMER_NOT_FOUND",
+   "message": "Nomor HP ini tidak valid. Coba lagi dengan nomor yang valid, ya.",
+   "message_title": "Error",
+   "message_severity": "error"
+  }
+ ]
+}

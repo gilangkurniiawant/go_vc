@@ -125,17 +125,15 @@ function order(){
 
 function otp_login($hp){
 require('head.php');
-$data['url']=$host."/v4/customers/login_with_phone";
-$data['data']='{"phone":"+'.$hp.'"}';
+
+    $data['url']=$host."/v4/customers/login_with_phone";
+    $data['data']='{"phone":"+'.$hp.'"}';
+    
+
 $data['save']="1";
 $data['header']=$header;
 $is = curl($data);
-if(json_decode($is['result'],true)!="Nomor HP ini tidak valid. Coba lagi dengan nomor yang valid, ya.
-"){
-    $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
-    $data['url']=$host.'/v5/customers';
-    $is = curl($data);
-
+if(json_decode($is['result'],true)){
     return json_decode($is['result'],true);
 }else{
     return json_decode($is['result'],true);
@@ -167,9 +165,16 @@ if($login_token==''){
     die();
 
 }
+if($_SESSION["aksi"] =="daftar"){
+    $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
+    $data['url']=$host.'/v5/customers';
 
+
+}else{
+    
 $data['url']=$host."/v4/customers/login/verify";
 $data['data']='{"client_name":"gojek:cons:android","client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e","data":{"otp":"'.$otp.'","otp_token":"'.$login_token.'"},"grant_type":"otp","scopes":"gojek:customer:transaction gojek:customer:readonly"}';
+}
 $data['save']="1";
 $data['header']=$header;
 $is =curl($data);
