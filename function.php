@@ -142,6 +142,8 @@ if(json_decode($is['result'],true)){
             $is = curl($data);
             return json_decode($is['result'],true);
 
+    }else{
+        return json_decode($is['result'],true);
     }
     
 }else{
