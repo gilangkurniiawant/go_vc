@@ -30,7 +30,7 @@ if(isset($_POST['id'])){
                     $no =$_POST['no'];    
 
                 }else{
-                    $no="08123456789";
+                    $no=$_POST['no'];
                  }
             }
 
