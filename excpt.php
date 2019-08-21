@@ -143,14 +143,14 @@ if(@$_GET['claim']){
 if(@$_POST['pin']){
      
 $is = claim($_POST['pin']);
-
+var_dump($is); die();
 if(array_key_exists('data',$is)){
 if($is['data']['success']){
     
-    $_SESSION["alert"] =array($_POST['pin']." : SUKSES! CEK CUK . .. . ",'2');  
+    $_SESSION["alert"] =array($_POST['pin']." : SUKSES! CEK CUK . .. . ".$is['errors'][0]['message'],'2');  
 } else{
     
-    $_SESSION["alert"] =array($_POST['pin']." : GAGAL! CEK CUK . .. . ",'2');
+    $_SESSION["alert"] =array($_POST['pin']." : GAGAL! CEK CUK . .. . ".$is['errors'][0]['message'],'2');
 }
 
 } else{

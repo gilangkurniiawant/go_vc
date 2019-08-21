@@ -14,7 +14,7 @@ if(array_key_exists('data',$is)){
 if($is['data']['success']){
     $_SESSION["alert"] =array("GOFOODNASGOR07 : SUKSES! CEK CUK . .. . ",'2');  
 } else{
-    $_SESSION["alert"] =array("GOFOODNASGOR07 : GAGAL! CEK CUK . .. . ",'2');
+    $_SESSION["alert"] =array("GOFOODNASGOR07 : GAGAL! CEK CUK . .. . ".$is['errors'][0]['message'],'2');
 }
 
 } else{
