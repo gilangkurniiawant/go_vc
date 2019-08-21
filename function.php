@@ -134,7 +134,8 @@ $data['save']="1";
 $data['header']=$header;
 $is = curl($data);
 if(json_decode($is['result'],true)){
-    if(array_key_exists('errors'),$is['result']){
+    if(array_key_exists('errors',$is['result'])){
+
         if($is['errors'][0]["message"]=="Nomor HP ini tidak valid. Coba lagi dengan nomor yang valid, ya."){
             $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
             $data['url']=$host.'/v5/customers';
