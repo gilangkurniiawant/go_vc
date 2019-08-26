@@ -7131,3 +7131,9 @@ Reference&#32;&#35;27&#46;a65d6276&#46;1565273941&#46;26ee5e8a
 
 
 {"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-606","message_title":"Voucher Tidak Valid","message":"Maaf. Voucher tidak ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
