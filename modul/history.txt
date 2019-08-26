@@ -7137,3 +7137,45 @@ Reference&#32;&#35;27&#46;a65d6276&#46;1565273941&#46;26ee5e8a
 
 
 {"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "Please try again.",
+      "message_title": "Invalid Request",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "Please try again.",
+      "message_title": "Invalid Request",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "Please try again.",
+      "message_title": "Invalid Request",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+{"data":{"message":"Enter the code we sent via SMS to your registered phone number (+62XXXXXXXX293).","otp_token":"2ac8fa05-78a3-4a30-b660-f4a640de824b","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}

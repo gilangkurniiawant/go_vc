@@ -25,18 +25,19 @@ if (@$_SESSION['val_pin']) {
     $pin = '';
 }
 
+
 if (!@$_SESSION['uuid']) {
     $_SESSION['uuid'] = gen_uuid();
 }
 $uuid =  $_SESSION['uuid'];
 
-
 $host = "https://api.gojekapi.com";
 
-$header = 'X-AppId: com.gojek.app
+$header = 'Host: api.gojekapi.com
 User-Agent: okhttp/3.12.1
+X-Session-ID: ' . $uuid . '
 X-Platform: Android
-X-Sesion-ID : ' . $uuid . '
+X-AppId: com.gojek.app
 X-PushTokenType: FCM
 Accept: application/json
 X-PhoneModel: Samsung,Samsung Galaxy S10+
@@ -50,4 +51,6 @@ Content-Type: application/json; charset=UTF-8
 X-AppVersion: 3.16.1
 Connection: keep-alive    
 X-User-Locale: en_ID
+X-Location: -7.556110,110.831670
+X-Location-Accuracy: 3.0
 ' . $xid;
