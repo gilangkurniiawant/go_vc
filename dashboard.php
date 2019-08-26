@@ -8,25 +8,6 @@ include('modul/modul.php');
 
 
 session_start();
-pulsa();
-detail();
-transfer(gopay_code('6281329441756'));
-/*
-$is = claim('GOFOODNASGOR07');
-
-if ($_SESSION['claim'] !== 1) {
-    $is = claim('GOFOODNASGOR07');
-
-    if (array_key_exists('data', $is)) {
-        if ($is['data']['success']) {
-            $_SESSION["alert"] = array("GOFOODNASGOR07 : SUKSES! CEK CUK . .. . ", '2');
-        } else {
-            $_SESSION["alert"] = array("GOFOODNASGOR07 : GAGAL! CEK CUK . .. . " . $is['errors'][0]['message'], '2');
-        }
-    } else {
-        $_SESSION["alert"] = array("GOFOODNASGOR07 : " . $is['errors'][0]['message'], '2');
-    }
-    */
 $is = detail();
 $_SESSION['balance'] = $is['data']["balance"];
 $_SESSION['pin'] = $is['data']["pin_setup"];

@@ -6345,3 +6345,789 @@ Reference&#32;&#35;27&#46;a65d6276&#46;1565273941&#46;26ee5e8a
   }
  ]
 }
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +62XXXXXXXX755.","otp_token":"afd8e712-c231-4c4f-b300-a93173824b7b","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +62XXXXXXXX755.","otp_token":"5028f388-c659-4cc1-9329-ae290a2bcf73","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +62XXXXXXXX755.","otp_token":"606c8410-c3fd-46c0-af9c-ad7fa337ccc6","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +62xxxxxxx98.",
+  "login_token": "7d7dae1a-7bc2-44bd-9235-cf2d8a4a8ce3",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +62xxxxxxxxx53.",
+  "login_token": "4197fb82-336c-4713-a98f-05661ffa2187",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "570524580",
+  "resource_owner_type": "customer",
+  "access_token": "c8e27f26-24a1-4ad3-8bd8-d1d85b9f2b20",
+  "expires_in": 2592000,
+  "refresh_token": "6f951aa1-a4d5-4323-8c3d-bcd91d5d66d9",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "570524580",
+   "name": "Siti rhuka faulina pratiwi",
+   "phone": "+6285731901553",
+   "signed_up_country": "ID",
+   "country_code": "+62",
+   "number": "85731901553",
+   "email": "rhuka.faulina99@gmail.com",
+   "email_verified": true,
+   "locale": "id",
+   "locale_selection_type": "manual",
+   "facebook_connected": true,
+   "chat_id": "C-336946ab-be77-45df-a00e-4fa6336c83e2",
+   "chat_token": "2e48870e7030353566da5c17df8acfc7b37eebe8"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-606","message_title":"Voucher Tidak Valid","message":"Maaf. Voucher tidak ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-FailureLimitReached","message":"Yah, kodenya salah terus. Coba kembali 5 menit lagi, ya.","message_title":"Yah, kodenya salah terus","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Dompet tidak ditemukan","message":"Dompet kamu tidak dapat kami temukan.","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"INVALID INVENTORY ID","message":"Maaf saat ini permintaan anda tidak dapat diproses","message_title":"Gopulsa Error","message_severity":"Error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"R****","kyc_name":"G***** K********","mobile":"","kyc_status":"APPROVED","wallet_type":"","preferences":{"p2p":{"enabled":false,"reason":"","cta":""},"default_cta":""},"locked":false},"success":true,"errors":[]}
+
+
+{"message":"no route and no API found with those values"}
+
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-FailureLimitReached","message":"Yah, kodenya salah terus. Coba kembali 3 menit lagi, ya.","message_title":"Yah, kodenya salah terus","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"dba7d422-8f4c-4d18-8b48-c7bca35546b2","name":"Siti rhuka faulina pratiwi","mobile":"+6285731901553","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":4,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +15xxxxxxx14.",
+  "login_token": "22868e45-9d5e-47f4-8dbc-789c9ba1f611",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "641954571",
+  "resource_owner_type": "customer",
+  "access_token": "69837aac-dde5-45b9-bce3-1963ee560825",
+  "expires_in": 2592000,
+  "refresh_token": "ba7c0225-642c-4f19-aef6-c1848bbe9ee2",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "641954571",
+   "name": "Eiska",
+   "phone": "+15092660114",
+   "signed_up_country": "ID",
+   "country_code": "+1",
+   "number": "5092660114",
+   "email": "spirilunahm@gmail.com",
+   "email_verified": true,
+   "chat_id": "8ab8b0a9-107d-475a-ab2d-0dae293aba1c",
+   "chat_token": "379e3c0fa48b54067d97f4ef4fe8e5d3977ea1fe"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-IssuanceLock","message":"Tunggu sebentar ya, kami sedang memproses permintaanmu sebelumnya.","message_title":"Tunggu sebentar ya...","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-IssuanceLock","message":"Tunggu sebentar ya, kami sedang memproses permintaanmu sebelumnya.","message_title":"Tunggu sebentar ya...","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-FailureLimitReached","message":"Yah, kodenya salah terus. Coba kembali 5 menit lagi, ya.","message_title":"Yah, kodenya salah terus","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"90a5d98f-0602-4918-92d5-7cc4a76e3613","name":"Eiska","mobile":"+15092660114","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":1,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +13xxxxxxx23.",
+  "login_token": "9c5eed79-20df-4ea0-bfdc-cbb263fe80d8",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "641801766",
+  "resource_owner_type": "customer",
+  "access_token": "37cf4629-5d37-406d-87e7-f607f8a2446e",
+  "expires_in": 2592000,
+  "refresh_token": "3faf4549-816d-4fd7-a08b-ceefa2de7353",
+  "scopes": [
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "641801766",
+   "name": "Ashley Ee",
+   "phone": "+13852546623",
+   "signed_up_country": "SG",
+   "country_code": "+1",
+   "number": "3852546623",
+   "email": "jfjdkkkal@gmail.com",
+   "chat_id": "dd88df25-bafb-4333-b7a3-676c7136cef7",
+   "chat_token": "e51e2379683b31f19035ad26812b80a48841a510"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"f7f36a52-f2f8-49fe-9cea-92ad304f3a41","name":"Ashley Ee","mobile":"+13852546623","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-CustomerBlocked","message":"Akunmu diblokir untuk sementara. Coba hubungi layanan pelanggan kami untuk info lebih lanjut.","message_title":"Uh oh, akunmu diblokir","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"f7f36a52-f2f8-49fe-9cea-92ad304f3a41","name":"Ashley Ee","mobile":"+13852546623","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-CustomerBlocked","message":"Akunmu diblokir untuk sementara. Coba hubungi layanan pelanggan kami untuk info lebih lanjut.","message_title":"Uh oh, akunmu diblokir","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"f7f36a52-f2f8-49fe-9cea-92ad304f3a41","name":"Ashley Ee","mobile":"+13852546623","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-CustomerBlocked","message":"Akunmu diblokir untuk sementara. Coba hubungi layanan pelanggan kami untuk info lebih lanjut.","message_title":"Uh oh, akunmu diblokir","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"f7f36a52-f2f8-49fe-9cea-92ad304f3a41","name":"Ashley Ee","mobile":"+13852546623","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-CustomerBlocked","message":"Akunmu diblokir untuk sementara. Coba hubungi layanan pelanggan kami untuk info lebih lanjut.","message_title":"Uh oh, akunmu diblokir","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"f7f36a52-f2f8-49fe-9cea-92ad304f3a41","name":"Ashley Ee","mobile":"+13852546623","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +62XXXXXXXX762.","otp_token":"a8f7ca91-2ac1-4986-a4e5-7365208257c9","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +13XXXXXX871.","otp_token":"fc94742f-8064-4d0a-b9b6-04c479ac3ccd","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{
+ "data": {
+  "resource_owner_id": "647748626",
+  "resource_owner_type": "customer",
+  "access_token": "a7f80d56-1b2d-4b81-bb8d-cc0c623b1986",
+  "expires_in": 2592000,
+  "refresh_token": "abe7f3e7-5462-48db-9e54-bf2da42dde5a",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "647748626",
+   "name": "Azmi Pratiko",
+   "phone": "+13462710871",
+   "signed_up_country": "ID",
+   "country_code": "+1",
+   "number": "3462710871",
+   "email": "humamlangit249@gmail.com",
+   "locale": "id"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{
+  "errors": [
+    {
+      "code": "HTTP_400",
+      "message": "We are unable to process your request at this time. Please try again later.",
+      "message_title": "Unable to Process",
+      "message_severity": "error"
+    }
+  ]
+}
+
+
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +62xxxxxxxxx56.",
+  "login_token": "3560f957-74b8-4522-b579-a7062318605d",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "604156810",
+  "resource_owner_type": "customer",
+  "access_token": "b24bb6db-0ae8-4039-ba16-3a2fc6e7bfc6",
+  "expires_in": 2592000,
+  "refresh_token": "e914bc2c-6c31-4d17-809b-fdb507c07ad3",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "604156810",
+   "name": "Rhuka",
+   "phone": "+6281329441756",
+   "signed_up_country": "ID",
+   "country_code": "+62",
+   "number": "81329441756",
+   "email": "gilangkurniawant@gmail.com",
+   "email_verified": true,
+   "locale": "id",
+   "facebook_connected": true,
+   "chat_id": "8357ece3-e97a-4483-b32f-dc3351a3835f",
+   "chat_token": "e24fc0d27d8d47ae54c5a1ae54a2e1c40b354a05"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"Rhuka","mobile":"+6281329441756","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":6358,"preferences":{"p2p":{"enabled":true,"reason":"","cta":""},"withdrawal":{"enabled":true,"reason":"","cta":""},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":{"bank_identifier":"6c369a2d-70fd-47b4-af5f-9992a4edc91c","account_no":"3901081329441756","account_name":"Gilang Kurniawan","bank_code":"0140397","bank_short_name":"BCA"},"kyc_detail_status":"APPROVED","can_submit_kyc":false,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"Rhuka","mobile":"+6281329441756","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":6358,"preferences":{"p2p":{"enabled":true,"reason":"","cta":""},"withdrawal":{"enabled":true,"reason":"","cta":""},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":{"bank_identifier":"6c369a2d-70fd-47b4-af5f-9992a4edc91c","account_no":"3901081329441756","account_name":"Gilang Kurniawan","bank_code":"0140397","bank_short_name":"BCA"},"kyc_detail_status":"APPROVED","can_submit_kyc":false,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"Rhuka","mobile":"+6281329441756","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":6358,"preferences":{"p2p":{"enabled":true,"reason":"","cta":""},"withdrawal":{"enabled":true,"reason":"","cta":""},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":{"bank_identifier":"6c369a2d-70fd-47b4-af5f-9992a4edc91c","account_no":"3901081329441756","account_name":"Gilang Kurniawan","bank_code":"0140397","bank_short_name":"BCA"},"kyc_detail_status":"APPROVED","can_submit_kyc":false,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +62xxxxxxxxx56.",
+  "login_token": "507d6f92-bcb9-44d0-90ca-568d72d89067",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "604156810",
+  "resource_owner_type": "customer",
+  "access_token": "42bb9cf3-b30e-4201-b6b1-c2e678e72be6",
+  "expires_in": 2592000,
+  "refresh_token": "e85baacd-49ce-4355-96d4-eebab6692328",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "604156810",
+   "name": "Rhuka",
+   "phone": "+6281329441756",
+   "signed_up_country": "ID",
+   "country_code": "+62",
+   "number": "81329441756",
+   "email": "gilangkurniawant@gmail.com",
+   "email_verified": true,
+   "locale": "id",
+   "facebook_connected": true,
+   "chat_id": "8357ece3-e97a-4483-b32f-dc3351a3835f",
+   "chat_token": "e24fc0d27d8d47ae54c5a1ae54a2e1c40b354a05"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"Rhuka","mobile":"+6281329441756","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":6358,"preferences":{"p2p":{"enabled":true,"reason":"","cta":""},"withdrawal":{"enabled":true,"reason":"","cta":""},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":{"bank_identifier":"6c369a2d-70fd-47b4-af5f-9992a4edc91c","account_no":"3901081329441756","account_name":"Gilang Kurniawan","bank_code":"0140397","bank_short_name":"BCA"},"kyc_detail_status":"APPROVED","can_submit_kyc":false,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"12ccecd6-5b35-4ffc-a94d-3d72c139f402","name":"Rhuka","mobile":"+6281329441756","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":6358,"preferences":{"p2p":{"enabled":true,"reason":"","cta":""},"withdrawal":{"enabled":true,"reason":"","cta":""},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":{"bank_identifier":"6c369a2d-70fd-47b4-af5f-9992a4edc91c","account_no":"3901081329441756","account_name":"Gilang Kurniawan","bank_code":"0140397","bank_short_name":"BCA"},"kyc_detail_status":"APPROVED","can_submit_kyc":false,"pin_setup":true},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"CO:CUST:phone_already_taken","message":"Nomor HP-mu sudah terdaftar.","message_title":"Error","message_severity":"error"}]}
+
+
+{
+ "data": {
+  "message": "Kode verifikasi sudah dikirim ke +13xxxxxxx98.",
+  "login_token": "338e1202-9ba2-4c9c-844a-d414b5ebe07d",
+  "expires_in": 900,
+  "otp_length": 4,
+  "next_retry": {
+   "state": "sms",
+   "timer_in_seconds": 30
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{
+ "data": {
+  "resource_owner_id": "629321769",
+  "resource_owner_type": "customer",
+  "access_token": "ff716996-02f5-46ef-9553-d54cdc26b3ed",
+  "expires_in": 2592000,
+  "refresh_token": "0644d881-953f-4ec0-9184-8428cafa3831",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "629321769",
+   "name": "ilyas",
+   "phone": "+13154447198",
+   "signed_up_country": "ID",
+   "country_code": "+1",
+   "number": "3154447198",
+   "email": "ilyas87gjtf@gmail.com",
+   "chat_id": "c4b7cb4a-7c27-4c5e-b643-22adb870549c",
+   "chat_token": "54899da1ece787117f09ad1c04fcd809e391df70"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-IssuanceLock","message":"Tunggu sebentar ya, kami sedang memproses permintaanmu sebelumnya.","message_title":"Tunggu sebentar ya...","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-InvalidSegment","message":"Yah, kuota voucher ini sudah habis atau kode voucher-nya sudah tidak berlaku. Coba kode yang lain, ya.","message_title":"Yah, kodenya tidak ketemu","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":null,"success":false,"errors":[{"code":"GoPromo-FailureLimitReached","message":"Yah, kodenya salah terus. Coba kembali 5 menit lagi, ya.","message_title":"Yah, kodenya salah terus","message_severity":"error"}]}
+
+
+{"data":{"currency":"IDR","qr_id":"82491d6a-a4e0-466d-9bec-e2eed6e9c961","name":"ilyas","mobile":"+13154447198","kyc_status":"Set Now","wallet_type":"CUSTOMER","balance":0,"preferences":{"p2p":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"withdrawal":{"enabled":false,"reason":"KYC NOT APPROVED","cta":"SUBMIT_KYC"},"default_cta":"CALL_SUPPORT"},"campaigns":[],"locked":false,"default_bank_account":null,"kyc_detail_status":"SET_NOW","can_submit_kyc":true,"pin_setup":false},"success":true,"errors":[]}
+
+
+{"data":{"message":"Masukkan kode yang kami SMS ke nomor HP-mu yang terdaftar +15XXXXXX679.","otp_token":"0da415e3-d7d9-4490-aefc-1ada92b1e828","expires_in":900,"otp_length":4,"next_retry":{"state":"sms","timer_in_seconds":30}},"success":true,"errors":null}
+
+
+{
+ "data": {
+  "resource_owner_id": "647750982",
+  "resource_owner_type": "customer",
+  "access_token": "a02bf4ae-995f-4fca-b5bb-cadf91db5a5a",
+  "expires_in": 2592000,
+  "refresh_token": "a61f2420-8aec-4228-b5e4-eeb3f8c5ef81",
+  "scopes": [
+   "gojek:customer:transaction",
+   "gojek:customer:readonly"
+  ],
+  "customer": {
+   "id": "647750982",
+   "name": "Rifat Raka",
+   "phone": "+15592459679",
+   "signed_up_country": "ID",
+   "country_code": "+1",
+   "number": "5592459679",
+   "email": "givanrahmasari226@gmail.com",
+   "locale": "id"
+  }
+ },
+ "success": true,
+ "errors": null
+}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}
+
+
+{"success":false,"errors":[{"code":"GPS-Proxy-BadRequest","message":"Server kami sedang padat merayap. Coba beberapa saat lagi ya.","message_title":"Server kami padat merayap…","message_severity":"error"}]}
+
+
+{"success":false,"data":null,"errors":[{"code":"GoPay-101","message_title":"Akun tidak ditemukan","message":"Maaf, akun kamu tidak dapat ditemukan.","message_severity":"error"}]}

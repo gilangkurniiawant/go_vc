@@ -125,25 +125,20 @@ function order()
 function otp_login($hp)
 {
     require('head.php');
-
-    $data['url'] = $host . "/v4/customers/login_with_phone";
-    $data['data'] = '{"phone":"+' . $hp . '"}';
-
-
-    $data['save'] = "1";
+    $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
+    $data['url'] = $host . '/v5/customers';
     $data['header'] = $header;
     $is = curl($data);
+    $hasil = json_decode($is['result'], true);
+    if (!$hasil['success']) {
+        $data['url'] = $host . "/v4/customers/login_with_phone";
+        $data['data'] = '{"phone":"+' . $hp . '"}';
+        $is = curl($data);
+    }
+
     if (json_decode($is['result'], true)) {
 
-        if ($is['result']['success']) {
-            $data['data'] = '{"name":"' . gen_nama() . '","email":"' . gen_email() . '@gmail.com","phone":"+' . $hp . '","signed_up_country":"ID"}';
-            $data['url'] = $host . '/v5/customers';
-            $data['header'] = $header;
-            $is = curl($data);
-            return json_decode($is['result'], true);
-        } else {
-            return json_decode($is['result'], true);
-        }
+        return json_decode($is['result'], true);
     } else {
         return json_decode($is['result'], true);
     }
