@@ -1,6 +1,6 @@
 <?php
 
-$xrand = "X-UniqueId: 106605982657" . mt_rand(1000, 9999);
+$xrand = "X-UniqueId: " . time() . "57" . mt_rand(1000, 9999);
 $xid = isset($_SESSION['xid']) ? $_SESSION['xid'] : $xrand;
 
 $bereer = isset($_SESSION['bereer']) ? $_SESSION['bereer'] : '';
@@ -42,7 +42,7 @@ X-PushTokenType: FCM
 Accept: application/json
 X-PhoneModel: Samsung,Samsung Galaxy S10+
 X-DeviceOS: Android,9.0
-X-AppVersion: 3.35.1
+X-AppVersion: 3.30.2
 X-AppId: com.gojek.app
 pin: ' . $pin . '
 Authorization: Bearer ' . $bereer . '
