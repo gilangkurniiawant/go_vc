@@ -48,9 +48,6 @@ pin: ' . $pin . '
 Authorization: Bearer ' . $bereer . '
 Accept-Language: en-ID
 Content-Type: application/json; charset=UTF-8
-X-AppVersion: 3.16.1
 Connection: keep-alive    
 X-User-Locale: en_ID
-X-Location: -7.556110,110.831670
-X-Location-Accuracy: 3.0
 ' . $xid;
