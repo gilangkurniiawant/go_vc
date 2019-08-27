@@ -77,9 +77,6 @@ if (isset($_POST['id'])) {
                 $_SESSION['balance'] = $is['data']["balance"];
                 $_SESSION['pin'] = $is['data']["pin_setup"];
                 $_SESSION['kurang'] = array();
-                $is = claim('GOFOODNASGOR07');
-                var_dump($is);
-                die();
                 header('Location:dashboard.php');
             } else {
                 $_SESSION["alert"] = array($is['errors'][0]["message"], '2');
